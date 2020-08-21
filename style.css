@@ -14,6 +14,7 @@ body {
 
 @media screen and  (min-width: 820px) {
   .nav {
+  display:inlinr-block;
   position: fixed;
   top: 40%;
   right: 0px;
