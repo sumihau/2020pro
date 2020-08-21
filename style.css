@@ -121,7 +121,7 @@ body {
   cursor: pointer;
 }
 
-@media (min-width: 300px) {
+@media screen and (min-width: 300px) {
   .contentP2, .P2sideR {
     width: 100%;
     height: 50%;
@@ -173,7 +173,7 @@ body {
     left: 25%;
   }
 }
-@media (min-width: 820px) {
+@media screen and  (min-width: 820px) {
   .btnP1L, .btnP1R {
     width: 5%;
     height: 5%;
@@ -283,7 +283,7 @@ body {
   transform: scale(1.2);
 }
 
-@media (min-width: 300px) {
+@media screen and  (min-width: 300px) {
   .contentP3, .P3sideR {
     width: 100%;
     height: 50%;
@@ -323,7 +323,7 @@ body {
     top: 220%;
   }
 }
-@media (min-width: 820px) {
+@media screen and  (min-width: 820px) {
   .contentP3, .P3sideR {
     width: 50%;
     height: 100%;
@@ -575,7 +575,7 @@ body {
   white-space: nowrap;
 }
 
-@media (min-width: 300px) {
+@media screen and  (min-width: 300px) {
   .webD {
     width: 25%;
     height: 10em;
@@ -632,7 +632,7 @@ body {
     margin-left: -19%;
   }
 }
-@media (min-width: 820px) {
+@media screen and  (min-width: 820px) {
   .contentP4, .P4sideR {
     width: 50%;
     height: 100%;
