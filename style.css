@@ -10,7 +10,10 @@ body {
   overflow: hidden;
 }
 
-.nav {
+
+
+@media screen and  (min-width: 820px) {
+  .nav {
   position: fixed;
   top: 40%;
   right: 0px;
@@ -25,6 +28,8 @@ body {
   border-radius: 50%;
   box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5) inset, -1px -1px 1px rgba(0, 0, 0, 0.5) inset;
   list-style-type: none;
+}
+
 }
 
 .menu {
