@@ -11,8 +11,6 @@ body {
 }
 
 .nav {
-  display:inline-block;
-  flex-wrap: wrap;
   position: fixed;
   top: 40%;
   right: 0px;
