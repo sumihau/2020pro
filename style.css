@@ -121,58 +121,7 @@ body {
   cursor: pointer;
 }
 
-@media (min-width: 300px) {
-  .contentP2, .P2sideR {
-    width: 100%;
-    height: 50%;
-  }
 
-  .P2sideR {
-    position: absolute;
-    top: 150%;
-    left: 0%;
-    order: 2;
-  }
-
-  .contentP2 {
-    position: absolute;
-    top: 100%;
-    order: 1;
-  }
-
-  .photo, .moji {
-    width: 85%;
-    height: 90%;
-    margin-top: 3%;
-    margin-left: 5%;
-  }
-
-  .btnP1L {
-    position: absolute;
-    top: 30%;
-    left: 70%;
-  }
-
-  .btnP1R, .btnP1L {
-    width: 10%;
-    height: 20%;
-    padding-left: 3%;
-    padding-right: 0%;
-    padding-top: 1%;
-  }
-
-  .btnP1R {
-    position: absolute;
-    top: 60%;
-    left: 70%;
-  }
-
-  .btnbt {
-    position: absolute;
-    top: 75%;
-    left: 25%;
-  }
-}
 @media (min-width: 900px) {
   .btnP1L, .btnP1R {
     width: 5%;
@@ -283,46 +232,7 @@ body {
   transform: scale(1.2);
 }
 
-@media (min-width: 300px) {
-  .contentP3, .P3sideR {
-    width: 100%;
-    height: 50%;
-  }
 
-  .P3sideR {
-    position: absolute;
-    top: 250%;
-    left: 0%;
-    order: 2;
-  }
-
-  .contentP3 {
-    position: absolute;
-    top: 200%;
-    order: 1;
-  }
-
-  .list {
-    width: 50%;
-    height: 70%;
-    position: absolute;
-    top: 10%;
-    left: 25%;
-  }
-
-  .contentP3 h3, .P3sideR h3 {
-    position: absolute;
-    top: 25%;
-    left: 10%;
-  }
-
-  .warpview, .artview {
-    width: 100vw;
-    height: 50vh;
-    position: absolute;
-    top: 220%;
-  }
-}
 @media (min-width: 900px) {
   .contentP3, .P3sideR {
     width: 50%;
@@ -575,63 +485,7 @@ body {
   white-space: nowrap;
 }
 
-@media (min-width: 300px) {
-  .webD {
-    width: 25%;
-    height: 10em;
-  }
 
-  .contentP4, .P4sideR {
-    width: 100%;
-    height: 50%;
-  }
-
-  .P4sideR {
-    position: absolute;
-    top: 350%;
-    left: 0%;
-    order: 2;
-  }
-
-  .contentP4 {
-    position: absolute;
-    top: 300%;
-    order: 1;
-  }
-
-  .listP4 {
-    width: 70%;
-    height: 40%;
-    margin-left: 20%;
-    margin-top: 10%;
-  }
-
-  .contentP4 h3, .P4sideR h3 {
-    position: absolute;
-    top: 20%;
-    left: 10%;
-  }
-
-  .webDview, .videoview {
-    width: 100vw;
-    height: 50vh;
-    position: absolute;
-    top: 320%;
-  }
-
-  .p4moji {
-    margin-top: -10%;
-    display: inline;
-    margin-left: 5%;
-  }
-
-  .video {
-    width: 25%;
-    height: 10em;
-    padding-bottom: 5%;
-    margin-left: -19%;
-  }
-}
 @media (min-width: 900px) {
   .contentP4, .P4sideR {
     width: 50%;
