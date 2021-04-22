@@ -661,7 +661,7 @@ body {
 
 .webD {
   width: 85%;
-  height: 9em;
+  height: 13em;
   margin: auto;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -767,8 +767,8 @@ body {
 
   .video {
     width: 85%;
-    height: 9em;
-    padding-bottom: 15%;
+    height: 12em;
+    padding-bottom: 9%;
     margin-left: 0%;
   }
 
